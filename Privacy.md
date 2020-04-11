@@ -30,7 +30,7 @@ If you have any questions about how I handle user data and personal information,
 
 ### Cookies
 
-Like any other website, Website Name uses ‘cookies'. These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimise the users' experience by customising our web page content.
+Like any other website, Website Name uses 'cookies'. These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimise the users' experience by customising our web page content.
 
 You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.
 
@@ -58,9 +58,9 @@ To make a request, please contact me
 
 I would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
 
-* The right to access – You have the right to request copies of your personal data.
-* The right to data portability – You have the right to request that I transfer the data that I have collected to another organisation, or directly to you, under certain conditions.
-* The right to rectification – You have the right to request that I correct any information you believe is inaccurate. You also have the right to request that I complete the information you believe is incomplete.
-* The right to erasure – You have the right to request that I erase your personal data, under certain conditions. - This can be done by deleting your account in any of the services
+* The right to access - You have the right to request copies of your personal data.
+* The right to data portability - You have the right to request that I transfer the data that I have collected to another organisation, or directly to you, under certain conditions.
+* The right to rectification - You have the right to request that I correct any information you believe is inaccurate. You also have the right to request that I complete the information you believe is incomplete.
+* The right to erasure - You have the right to request that I erase your personal data, under certain conditions. - This can be done by deleting your account in any of the services
 
 To make a request, please contact me

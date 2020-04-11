@@ -12,5 +12,7 @@ This project uses:
 - Font Awesome
 
 ## To Use
-Update index.html manually. Choose icons from [Font Awesome](http://fontawesome.io/icons/)
+1. Update index.html manually.
+2. Choose icons from [Font Awesome](http://fontawesome.io/icons/)
+3. Run make to build and deploy
 

@@ -11,7 +11,7 @@ Permission is granted to temporarily download one copy of the materials on My We
 Additionally almost all of My Websites are available under an open source license
 
 3. Disclaimer
-All the materials on My Websites are provided “as is”.
+All the materials on My Websites are provided "as is".
 I makes no warranties, may it be expressed or implied, therefore negates all other warranties.
 Furthermore, I does not make any representations concerning the accuracy or reliability of the use of the materials on any sites linked to my websites.
 
