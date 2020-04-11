@@ -3,6 +3,7 @@
 SITENAME=juancanham.com
 TARGET=/var/www/html/simpler-dash/
 linkchecker=linkchecker --check-extern
+ICON=favicon.jpg
 
 help:
 	@echo 'all: local deploy'
@@ -20,9 +21,10 @@ clean:
 	rm -r dist/* || true
 
 build: clean
-	cp -v *.html *.jpg *.ico dist/
+	cp -v index.html background.jpg dist/
 	cp -rv css/ webfonts/ dist/
 	for file in ToS Privacy; do markdown_py $${file}.md > dist/$${file} ; done
+	convert $(ICON) -define icon:auto-resize=64,48,32,16 dist/favicon.ico
 
 test:
 	$(linkchecker) dist/index.html
